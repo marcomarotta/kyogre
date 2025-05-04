@@ -40,10 +40,10 @@
         "DDLStream": {
             "url": "https://ddlstreamitaly.co",
             "cookies": {
-                "ips4_device_key": "1496c03312d318b557ff53512202e757",
-                "ips4_IPSSessionFront": "d9ace0029696972877e2a5e3614a333b",
-                "ips4_member_id": "4030088",
-                "ips4_login_key": "71a501781ba479dfb91b40147e637daf"
+                "ips4_device_key": "10b1165c4c8c11215198e26d1544b667",
+                "ips4_IPSSessionFront": "d309b8e698deda32f4089f8c3a3cbebc",
+                "ips4_member_id": "4030047",
+                "ips4_login_key": "5f9e08fb2984188e8a6690bf6c30d445"
             },
             "enabled": "1"
         },
@@ -84,7 +84,7 @@
         "load_env": "0",
         "HOST": "0.0.0.0",
         "PORT": "8080",
-        "Name": "MammaMia",
+        "Name": "MammaKyo",
         "Icon": "🍕️",
         "Public_Instance": "0",
         "Remote_Instance": "1",
